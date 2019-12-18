@@ -7,3 +7,4 @@ From a database of 2000 images, the system retrieves the 10 most similar to one 
 
 The block diagram of the implemented system is as follows:
 
+![image](https://user-images.githubusercontent.com/42140425/71124730-c5eb9700-21e5-11ea-8ff0-3464949aa2fb.png)
